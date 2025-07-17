@@ -14,7 +14,7 @@ This project was created as a way to practice object-oriented programming in C++
 - `READ <filename>` - Display the content of a file
 - `UPDATE <filename>` - Add or overwrite content in a file
 - `DELETE <filename>` - Remove a file from disk
-- `LIST` - Show all files in the working directory
+- `VIEW` - Show all files in the working directory
 - `HELP` - Show available commands
 
 ---
